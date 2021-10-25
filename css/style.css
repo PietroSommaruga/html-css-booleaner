@@ -1,0 +1,96 @@
+body{
+    font-family: 'Zen Kaku Gothic Antique', sans-serif;
+    font-size: 12px;
+    line-height: 15px;
+}
+
+.intestazione {
+    height:100px;
+    width: 100vw;
+    background-color: rgba(127, 181, 181, 0.6);
+    background-image: url(../img/pattern.png);
+    background-repeat: repeat;
+    background-size: 250px;
+    position: relative;
+    }
+
+    #logo {
+        height: 50px;
+        width: 200px;
+        position: absolute;
+        left: 10px;
+        bottom: 5px;
+    }
+
+    .titolo{
+        margin: 0;
+        line-height: 25px;
+    }
+    
+    .tim {
+        margin-top: 30px;
+    }
+    
+    #tim1{
+        width: 48%;
+        height:30vh;
+    }
+
+    #tim2{
+        width: 48%;
+        height:30vh;
+    }
+    .autore{
+        margin: 0;
+        font-size: 16px;
+        color:gray;
+    }
+
+    #pietro{
+        color: blue;
+    }
+
+    #data{
+        font-size: 10px;
+        color:gray;
+        margin: 0;
+    }
+
+    .descrizione{
+        margin: 0;
+        font-size: 13px;
+    }
+
+    .paragrafo1{
+        margin-top: 20px;
+        margin-bottom: 10px;
+    }
+
+    .giallo{background-color: yellow;}
+
+    .paragrafo1{
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    table{
+        color: black;
+    }
+
+    .riga1{
+        background-color: rgb(0, 127, 255);
+    }
+
+    .colonna{
+        width: 20vw;
+    }
+
+    .riga2{
+        background-color: rgb(153, 203, 255);
+    }
+
+    .riga4{
+        background-color: rgb(153, 203, 255);
+    }
+
+footer{ color: gray;}
