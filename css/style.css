@@ -7,8 +7,7 @@ body{
 .intestazione {
     height:100px;
     width: 100vw;
-    background-color: rgba(127, 181, 181, 0.6);
-    background-image: url(../img/pattern.png);
+    background: #4ea0ff url('../img/pattern.png');
     background-repeat: repeat;
     background-size: 250px;
     position: relative;
@@ -68,13 +67,13 @@ body{
 
     .giallo{background-color: yellow;}
 
-    .paragrafo1{
-        margin-top: 10px;
-        margin-bottom: 10px;
+    .paragrafo2{
+        padding-left: 15px;
     }
 
     table{
         color: black;
+        border-spacing: 0;
     }
 
     .riga1{
